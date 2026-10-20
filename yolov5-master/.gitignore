@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+runs/
+*.pyc
+.DS_Store
+Thumbs.db
+git remote add origin https://github.com/yourusername/your-repo.git
+git branch -M main
+git commit -m "Initial YOLOv5 clean project commit"
+git push -u origin main
